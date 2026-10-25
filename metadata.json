@@ -1,0 +1,6 @@
+{
+  "name": "TaskPulse",
+  "description": "Real-time on-demand service marketplace connecting customers with verified local service providers with live tracking, instant matching, in-app messaging, and dual provider-customer views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
